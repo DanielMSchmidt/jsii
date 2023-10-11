@@ -1,2 +1,2 @@
-mypy==1.4.1
+mypy==1.6.0
 pip==23.2 # required to use --config-settings
